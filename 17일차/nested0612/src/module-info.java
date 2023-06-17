@@ -1,0 +1,2 @@
+module nested0612 {
+}
